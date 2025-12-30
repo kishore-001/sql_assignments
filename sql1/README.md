@@ -5,7 +5,7 @@ This assignment covers SQL operations on two databases: **Brands** and **Product
 
 ---
 
-## 📋 Basic Questions
+##  Basic Questions
 
 ### 1. Create two Databases Name: Brands, and Products
 ![Answer](ans/n1.png)
@@ -40,7 +40,7 @@ This assignment covers SQL operations on two databases: **Brands** and **Product
 
 ---
 
-## 📊 Intermediate Questions
+##  Intermediate Questions
 
 ### 1. Find the Total Sale Price and Gross Sales
 ![Answer](ans/i1.png)
@@ -89,7 +89,7 @@ This assignment covers SQL operations on two databases: **Brands** and **Product
 
 ---
 
-## 🚀 Advanced Questions
+##  Advanced Questions
 
 ### 1. Apply INNER, FULL OUTER, LEFT JOIN types on both the table
 ![Answer](ans/a1.png)
@@ -129,7 +129,7 @@ This assignment covers SQL operations on two databases: **Brands** and **Product
 
 ---
 
-## 💡 Super-Advanced Questions
+##  Super-Advanced Questions
 
 ### 1. Find the item_description and bottle_price of items that have the same vendor_name as items with Item_Id 1
 ![Answer](ans/s1.png)
